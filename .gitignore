@@ -1,0 +1,7 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+judge_prompt_debug.txt
+.deepeval/
+.deepeval_telemetry.txt
